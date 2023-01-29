@@ -1,0 +1,48 @@
+.create {
+    width: 90%;
+      margin-right: auto;
+      margin-left: auto;
+  }
+  
+  .create h1 {
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  .create button {
+    width: 100%;
+    margin: 1rem auto;
+  }
+  
+  .container {
+      width: 90%;
+      margin-right: auto;
+      margin-left: auto;
+    }
+  
+    table {
+      width: 100%;
+    }
+  
+    #edit {
+      color:rgb(0, 153, 255);
+    }
+  
+    #delete {
+      color:rgb(245, 101, 35);
+    }
+
+    td.alta {
+      color: rgb(0, 255, 0);
+      font-weight: bold;
+    }
+    
+    td.media {
+      color: rgb(243, 243, 28);
+      font-weight: bold;
+    }
+
+    td.baixa {
+      color: red;
+      font-weight: bold;
+    }
